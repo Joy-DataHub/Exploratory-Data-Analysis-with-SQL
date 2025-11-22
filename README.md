@@ -20,10 +20,12 @@ This SQL-based EDA focuses on answering key business questions such as:
 -	SQL Concepts Applied: JOINs, Aggregations, Window Functions, CTEs, Filtering, Grouping, Date Functions
 # Sales/Revenue findings
 - Furniture is the top-performing product category, contributing 3,605,358 to total revenue, suggesting high consumer interest and strong market demand.
-- Best selling product
+- Product 193 (Household) emerged as the top-performing product, generating the highest total revenue of 741,302.
 -	Highest revenue period (2025)
 -	High-revenue cities
 # Revenue per Category
 <img width="616" height="341" alt="image" src="https://github.com/user-attachments/assets/8dcef3fc-28bc-4398-b99d-d4c850fdddf4" />
+# Highest Revenue Product
+<img width="705" height="281" alt="image" src="https://github.com/user-attachments/assets/ec111ff5-840d-437c-ad20-8f36fbbfd430" />
 
 
