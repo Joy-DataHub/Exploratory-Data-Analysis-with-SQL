@@ -18,7 +18,7 @@ This SQL-based EDA focuses on answering key business questions such as:
 -	Language: SQL
 -	Tech: SQL Server Management Studio (SSMS)
 -	SQL Concepts Applied: JOINs, Aggregations, Window Functions, CTEs, Filtering, Grouping, Date Functions
-# Sales/Revenue Insights → 4 main findings
+# Sales/Revenue findings
 -	Best-selling products
 -	Best-selling categories
 -	Highest revenue period (2025)
