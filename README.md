@@ -25,6 +25,7 @@ This SQL-based EDA focuses on answering key business questions such as:
 -	High-revenue cities
 # Revenue per Category
 <img width="616" height="341" alt="image" src="https://github.com/user-attachments/assets/8dcef3fc-28bc-4398-b99d-d4c850fdddf4" />
+
 # Highest Revenue Product
 <img width="705" height="281" alt="image" src="https://github.com/user-attachments/assets/ec111ff5-840d-437c-ad20-8f36fbbfd430" />
 
