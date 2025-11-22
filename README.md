@@ -4,18 +4,18 @@ This shows an exploratory data analysis (EDA) for an e-commerce/retail company u
 This project aims to understand customer behavior, identify the best-performing products and categories, review sales trends, and uncover opportunities to improve business operations and revenue. The insights drawn from these SQL queries guide recommendations on marketing, inventory management, and customer engagement
 # Objectives
 This SQL-based EDA focuses on answering key business questions such as:
-•	Which products and categories generate the most revenue?
-•	Which cities contribute the highest number of customers and sales?
-•	Who are the most valuable and most active customers?
-•	How do sales perform month-by-month?
-•	What opportunities exist to improve revenue, customer retention, and inventory planning?
+-	Which products and categories generate the most revenue?
+-	Which cities contribute the highest number of customers and sales?
+-	Who are the most valuable and most active customers?
+-	How do sales perform month-by-month?
+-	What opportunities exist to improve revenue, customer retention, and inventory planning?
 # Dataset Summary
-•	Industry: Retail / E-commerce
-•	Tables: Customers, Products, Orders, Order_Items (4 tables)
-•	Data Includes: Customer demographics, product catalog, order transactions, and item-level details
-•	Type: CSV files imported into SQL Server Management Studio (SSMS)
+-	Industry: Retail / E-commerce
+-	Tables: Customers, Products, Orders, Order_Items (4 tables)
+-	Data Includes: Customer demographics, product catalog, order transactions, and item-level details
+-	Type: CSV files imported into SQL Server Management Studio (SSMS)
 # Tools and Skills Used
-•	Language: SQL
-•	Tech: SQL Server Management Studio (SSMS)
-•	SQL Concepts Applied: JOINs, Aggregations, Window Functions, CTEs, Filtering, Grouping, Date Functions
+-	Language: SQL
+-	Tech: SQL Server Management Studio (SSMS)
+-	SQL Concepts Applied: JOINs, Aggregations, Window Functions, CTEs, Filtering, Grouping, Date Functions
 
