@@ -23,4 +23,7 @@ This SQL-based EDA focuses on answering key business questions such as:
 - Best selling product
 -	Highest revenue period (2025)
 -	High-revenue cities
+# Revenue per Category
+<img width="616" height="341" alt="image" src="https://github.com/user-attachments/assets/8dcef3fc-28bc-4398-b99d-d4c850fdddf4" />
+
 
