@@ -19,8 +19,8 @@ This SQL-based EDA focuses on answering key business questions such as:
 -	Tech: SQL Server Management Studio (SSMS)
 -	SQL Concepts Applied: JOINs, Aggregations, Window Functions, CTEs, Filtering, Grouping, Date Functions
 # Sales/Revenue findings
--	Best-selling products
--	Best-selling categories
+- Furniture is the top-performing product category, contributing 3,605,358 to total revenue, suggesting high consumer interest and strong market demand.
+- Best selling product
 -	Highest revenue period (2025)
 -	High-revenue cities
 
