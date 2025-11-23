@@ -43,7 +43,8 @@ This SQL-based EDA focuses on answering key business questions such as:
 - Customers who never orded
 
 # Top Spenders
-![Top5_spending_customers JPG](https://github.com/user-attachments/assets/91b4a50e-3953-47e7-8b4c-f8daf74ed809)
+![Top5_spending_customers JPG](https://github.com/user-attachments/assets/96cc3f04-0e21-4b8b-99c7-c53c68ab03f1)
+
 
 
 
