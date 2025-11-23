@@ -36,3 +36,4 @@ This SQL-based EDA focuses on answering key business questions such as:
 # Revenue per Year
 ![Total_revenue_per_year JPG](https://github.com/user-attachments/assets/b9d17a20-ef00-4a24-864b-af3707f9f428)
 
+
