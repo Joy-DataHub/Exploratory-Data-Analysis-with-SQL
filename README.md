@@ -24,9 +24,14 @@ This SQL-based EDA focuses on answering key business questions such as:
 -	Highest revenue period (2025)
 -	High-revenue cities
 # Revenue per Category
-<img width="616" height="341" alt="image" src="https://github.com/user-attachments/assets/8dcef3fc-28bc-4398-b99d-d4c850fdddf4" />
+![Total Revenue per Category](https://github.com/user-attachments/assets/cdb62306-f626-4f21-97fa-015af09e1acb)
 
 # Highest Revenue Product
-<img width="705" height="281" alt="image" src="https://github.com/user-attachments/assets/ec111ff5-840d-437c-ad20-8f36fbbfd430" />
+![Product_with_highest_revenue](https://github.com/user-attachments/assets/e30b9c28-d425-4738-937c-f6e69b18608d)
 
+# High Revenue Cities
+![High_revenue_cities JPG](https://github.com/user-attachments/assets/ce9b2c44-f675-4a92-95c6-c75b770404ea)
+
+# Revenue per Year
+![Total_revenue_per_year JPG](https://github.com/user-attachments/assets/b9d17a20-ef00-4a24-864b-af3707f9f428)
 
