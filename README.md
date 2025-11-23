@@ -36,4 +36,14 @@ This SQL-based EDA focuses on answering key business questions such as:
 # Revenue per Year
 ![Total_revenue_per_year JPG](https://github.com/user-attachments/assets/b9d17a20-ef00-4a24-864b-af3707f9f428)
 
+# Customer Findings
+-	VIP customers (Top spenders)
+- Loyal customers (More than 3 orders)
+-	Most active customers (Total quantity purchased)
+- Customers who never orded
+
+# Top Spenders
+![Top5_spending_customers JPG](https://github.com/user-attachments/assets/91b4a50e-3953-47e7-8b4c-f8daf74ed809)
+
+
 
