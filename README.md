@@ -21,8 +21,8 @@ This SQL-based EDA focuses on answering key business questions such as:
 # Sales/Revenue findings
 - Furniture is the top-performing product category, contributing 3,605,358 to total revenue, suggesting high consumer interest and strong market demand.
 - Product 193 (Household) emerged as the top-performing product, generating the highest total revenue of 741,302.
--	Highest revenue period (2025)
--	High-revenue cities
+-	Lagos has the highest sales revenue (₦775,398), making it the strongest-performing city in terms of sales.
+-	Revenue in 2024 (₦12,912,240) was significantly higher than in 2025 (₦855,906), indicating a sharp decline in sales performance year-over-year.
 # Revenue per Category
 ![Total Revenue per Category](https://github.com/user-attachments/assets/cdb62306-f626-4f21-97fa-015af09e1acb)
 
