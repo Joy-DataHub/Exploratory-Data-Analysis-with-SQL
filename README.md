@@ -38,7 +38,7 @@ This SQL-based EDA focuses on answering key business questions such as:
 
 # Customer Findings
 -	Customer 55 emerges as the top spender, contributing a total of ₦651,368 in purchases. This indicates a strong purchasing behavior and highlights them as a high-value customer within the dataset.
-- Customer 31 shows the highest level of loyalty with 4 repeat orders, followed by customers 39 and 79, who each placed 3 orders, highlighting a small group of consistently loyal customers.-	Most active customers (Total quantity purchased)
+- Customer 31 shows the highest level of loyalty with 4 repeat orders, followed by customers 39 and 79, who each placed 3 orders, highlighting a small group of consistently loyal customers.
 - A total of 29 customers did not place any orders, indicating a segment of inactive or unengaged customers that could be targeted with marketing or engagement strategies to boost sales.
 
 # Top Spenders
