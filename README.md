@@ -37,10 +37,9 @@ This SQL-based EDA focuses on answering key business questions such as:
 ![Total_revenue_per_year JPG](https://github.com/user-attachments/assets/b9d17a20-ef00-4a24-864b-af3707f9f428)
 
 # Customer Findings
--	VIP customers (Top spenders)
-- Loyal customers (More than 3 orders)
--	Most active customers (Total quantity purchased)
-- Customers who never orded
+-	Customer 55 emerges as the top spender, contributing a total of ₦651,368 in purchases. This indicates a strong purchasing behavior and highlights them as a high-value customer within the dataset.
+- Customer 31 shows the highest level of loyalty with 4 repeat orders, followed by customers 39 and 79, who each placed 3 orders, highlighting a small group of consistently loyal customers.-	Most active customers (Total quantity purchased)
+- A total of 29 customers did not place any orders, indicating a segment of inactive or unengaged customers that could be targeted with marketing or engagement strategies to boost sales.
 
 # Top Spenders
 ![Top5_spending_customers JPG](https://github.com/user-attachments/assets/96cc3f04-0e21-4b8b-99c7-c53c68ab03f1)
