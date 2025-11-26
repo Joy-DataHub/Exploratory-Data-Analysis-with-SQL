@@ -48,7 +48,8 @@ This SQL-based EDA focuses on answering key business questions such as:
 ![Most_loyals_customers JPG](https://github.com/user-attachments/assets/8f8107a9-fe1e-4804-9ae5-9b70668539ee)
 
 # Customers who never ordered
-![Customers_who_never_ordered JPG](https://github.com/user-attachments/assets/3323eb3e-b507-4c7a-98bf-cf9bda4871f6)
+![Customers_who_never_ordered JPG](https://github.com/user-attachments/assets/6d65e4d9-2a85-4988-9473-7110194b381c)
+
 
 # Inventory & Operational Findings
 
