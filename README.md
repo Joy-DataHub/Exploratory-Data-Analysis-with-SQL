@@ -45,8 +45,10 @@ This SQL-based EDA focuses on answering key business questions such as:
 ![Top5_spending_customers JPG](https://github.com/user-attachments/assets/96cc3f04-0e21-4b8b-99c7-c53c68ab03f1)
 
 # Most Loyal Customers
+![Most_loyals_customers JPG](https://github.com/user-attachments/assets/8f8107a9-fe1e-4804-9ae5-9b70668539ee)
 
 # Customers who never ordered
+![Customers_who_never_ordered JPG](https://github.com/user-attachments/assets/3323eb3e-b507-4c7a-98bf-cf9bda4871f6)
 
 # Inventory & Operational Findings
 
