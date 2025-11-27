@@ -52,5 +52,16 @@ This SQL-based EDA focuses on answering key business questions such as:
 
 
 # Inventory & Operational Findings
+- The Household category recorded the highest quantity sold (167 units), indicating strong customer demand compared to other categories such as Furniture, Food, Electronics, and Toiletries.
+
+- Order 1028 recorded the highest product variety with 6 different products, indicating a strong multi-product purchase in a single transaction.
+
+# Quantity of products sold per category
+![Quantity sold per category JPG](https://github.com/user-attachments/assets/4ef2ba38-69ab-4ddc-8876-1fa12bda7dae)
+
+# Orders with more than two different products
+![Orders with more than two products JPG](https://github.com/user-attachments/assets/01e566bd-633d-47d5-86b9-be11427afb9c)
+
+
 
 
