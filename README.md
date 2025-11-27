@@ -62,6 +62,8 @@ This SQL-based EDA focuses on answering key business questions such as:
 # Orders with more than two different products
 ![Orders with more than two products JPG](https://github.com/user-attachments/assets/01e566bd-633d-47d5-86b9-be11427afb9c)
 
+# Orders in each Month of 2025 
 
+# Orders in each Month of 2024
 
 
